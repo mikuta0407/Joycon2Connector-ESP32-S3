@@ -1,0 +1,21 @@
+{
+  "C_Cpp.default.browse.path": [
+    "/Users/mikuta0407/Documents/Arduino/libraries/**",
+    "/Users/mikuta0407/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.5-b66b5448-v1/esp32s3/include/**",
+    "/Users/mikuta0407/Library/Arduino15/libraries/**",
+    "/Users/mikuta0407/Library/Arduino15/packages/esp32/hardware/**",
+  ],
+  "C_Cpp.default.includePath": [
+    "/Users/mikuta0407/Documents/Arduino/libraries/**",
+    "/Users/mikuta0407/Library/Arduino15/packages/esp32/tools/esp32-arduino-libs/idf-release_v5.5-b66b5448-v1/esp32s3/include/**",
+    "/Users/mikuta0407/Library/Arduino15/libraries/**",
+    "/Users/mikuta0407/Library/Arduino15/packages/esp32/hardware/**",
+  ],
+  "C_Cpp.default.defines": [
+    "USBCON"
+  ],
+  "files.associations": {
+    "ostream": "cpp"
+  }
+
+}
