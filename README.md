@@ -118,6 +118,7 @@ AtomS3U (ESP32-S3) を、Nintendo Switch 2向けのJoy-Con 2・ゲームキュ�
 
 このプロジェクトの開発にあたり、以下のリポジトリを参考にさせていただきました。
 
+- [yujimny/Joycon2test](https://github.com/yujimny/Joycon2test)
 - [TheFrano/joycon2py](https://github.com/TheFrano/joycon2py)
 - [TheFrano/joycon2cpp](https://github.com/TheFrano/joycon2cpp)
 
