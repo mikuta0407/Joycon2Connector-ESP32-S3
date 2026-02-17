@@ -53,6 +53,7 @@ The following libraries must be installed in your Arduino environment:
 
 The following repositories were referenced during the development of this project.
 
+- [yujimny/Joycon2test](https://github.com/yujimny/Joycon2test)
 - [TheFrano/joycon2py](https://github.com/TheFrano/joycon2py)
 - [TheFrano/joycon2cpp](https://github.com/TheFrano/joycon2cpp)
 
